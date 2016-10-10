@@ -4,9 +4,7 @@
     "details": [
       {
         "appID": "3B464LG3YF.com.appteka.mlsn",
-        "paths": [
-          "*"
-        ]
+        "paths": [ "*", "/" ]
       }
     ]
   }
